@@ -130,7 +130,6 @@ src/warehouse_management.cpp    主程序源码
 出库信息.txt                    脱敏出库记录示例数据
 供应商信息.txt                  脱敏供应商示例数据
 管理员信息.txt                  脱敏管理员账号示例数据
-images/screenshots/             运行截图
 ```
 
 ## 运行方式
