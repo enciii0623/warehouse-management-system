@@ -83,37 +83,44 @@
 
 ### 登录入口
 
-![登录入口](images/screenshots/image1.png)
+<img width="539" height="201" alt="image1" src="https://github.com/user-attachments/assets/b7e8bcd4-dcd7-4d27-9fad-d72e2e26c142" />
+
 
 ### 管理员主菜单
 
-![管理员主菜单](images/screenshots/image13.png)
+<img width="1273" height="812" alt="image13" src="https://github.com/user-attachments/assets/e777434e-cbb5-439f-8922-94bc1488aba2" />
+
 
 ### 货物入库
 
-![货物入库](images/screenshots/image14.png)
+<img width="1273" height="812" alt="image13" src="https://github.com/user-attachments/assets/96bd6fd3-d651-443d-b7c0-8fad343d0606" />
+
 
 ### 出库管理
 
-![出库管理](images/screenshots/image16.png)
+<img width="569" height="254" alt="image16" src="https://github.com/user-attachments/assets/20845d8a-ebab-4078-8795-b116802fb890" />
+
 
 ### 货物查询
 
-![货物查询](images/screenshots/image24.png)
+<img width="665" height="419" alt="image24" src="https://github.com/user-attachments/assets/69ff29e0-4c52-4241-8eff-1819b0ca9b4d" />
+
 
 ### 供应商管理
 
-![供应商管理](images/screenshots/image34.png)
+<img width="608" height="189" alt="image34" src="https://github.com/user-attachments/assets/1e3718f0-926f-44bb-b3fe-81867ccda53e" />
+
 
 ### 库存盘点
 
-![库存盘点](images/screenshots/image31.png)
+<img width="665" height="213" alt="image31" src="https://github.com/user-attachments/assets/b6a7e8c5-0793-43e5-a740-f47fb17593c6" />
+
 
 ### 报表生成
 
-![报表生成](images/screenshots/image40.png)
+<img width="583" height="188" alt="image40" src="https://github.com/user-attachments/assets/8843c3a1-7131-40e9-ad9c-94b1f2a5ebaa" />
 
-完整运行截图见 `images/screenshots/` 目录。
+
 
 ## 文件说明
 
